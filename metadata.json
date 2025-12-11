@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Murree Tourist Guide",
+  "description": "A comprehensive travel companion for Murree, Pakistan, featuring top attractions, itinerary planning, and an AI-powered local guide.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
